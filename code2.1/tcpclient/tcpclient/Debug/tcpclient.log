@@ -1,0 +1,11 @@
+﻿Build started 2017/6/12 11:59:42.
+     1>Project "F:\gitproject\Server_dev\code2.1\tcpclient\tcpclient\tcpclient.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\gitproject\Server_dev\code2.1\tcpclient\Debug\tcpclient.exe" /INCREMENTAL /NOLOGO WS2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\gitproject\Server_dev\code2.1\tcpclient\Debug\tcpclient.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\gitproject\Server_dev\code2.1\tcpclient\Debug\tcpclient.lib" /MACHINE:X86 Debug\Tcpclient.obj
+         Debug\XTcp.obj
+         tcpclient.vcxproj -> F:\gitproject\Server_dev\code2.1\tcpclient\Debug\tcpclient.exe
+     1>Done Building Project "F:\gitproject\Server_dev\code2.1\tcpclient\tcpclient\tcpclient.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.69
